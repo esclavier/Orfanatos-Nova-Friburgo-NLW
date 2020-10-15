@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Happy" title="Happy" src=".Orfanatos-Nova-Friburgo-NLW/Orfanatos-Nova Friburgo-NLW/public/images/logo.svg" />
+    <img alt="Happy" title="Happy" src="" />
 </h1>
 
 <p align="center">
@@ -17,7 +17,7 @@
 <br>
 
 <p align="center">
-  <img alt="Happy" src=".github/happy.png" width="100%">
+  <img alt="Happy" src="happy.png" width="100%">
 </p>
 
 ## 💻 Projeto
